@@ -30,8 +30,13 @@ Skills
 * Programming languages:
   * Medium knowledge: C++, Python, Matlab, PLC
   * Basic knowledge: Java, VHDL
-* Libraries: 
 
+Projects
+======
+  <ul>{% for post in site.projects %}
+    {% include archive-single-projects-cv.html %}
+  {% endfor %}</ul>
+  
   
 Talks
 ======
