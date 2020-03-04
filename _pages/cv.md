@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Curriculum Vitae](https://francovia.github.io/files/Franco.pdf/)
+[Curriculum Vitae](https://francovia.github.io/files/Franco.pdf)
 
 Education
 ======
