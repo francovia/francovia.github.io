@@ -31,10 +31,6 @@ So, a network of agents is considered, where every agent knows only a subset of 
 
 **Report**
 
-<object data="http://francovia.github.io/files/DCS.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://francovia.github.io/files/DCS.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://francovia.github.io/files/DCS.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+
 
 **Repository**
