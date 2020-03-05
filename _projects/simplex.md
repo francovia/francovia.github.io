@@ -31,6 +31,4 @@ So, a network of agents is considered, where every agent knows only a subset of 
 
 **Contents:**
 
-[Report](http://francovia.github.io/files/DCS.pdf)
-
-[Repository](http://github.com/francovia/Distributed-Simplex)
+[Report](http://francovia.github.io/files/DCS.pdf) & [Repository](http://github.com/francovia/Distributed-Simplex)
