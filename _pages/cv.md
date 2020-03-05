@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-[Curriculum Vitae](http://francovia.github.io/files/Franco.pdf)
 
 Education
 ======
