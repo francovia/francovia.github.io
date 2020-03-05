@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 [Curriculum Vitae](http://francovia.github.io/files/Franco.pdf)
 
 Education
