@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nicola Franco"
   avatar           : "photo-profile.jpg"
-  bio              : "Enthusiastic robotics learner"
+  bio              : "enthusiastic robotics geek"
   location         : "Munich DE"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/nicola-franco-050818141/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
