@@ -4,6 +4,8 @@ excerpt: "An implementation of a distributed version of the well-known simplex a
 collection: projects
 ---
 
+**Simulation**
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=sib7pv8JoH4
 " target="_blank"><img src="http://img.youtube.com/vi/sib7pv8JoH4/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
@@ -14,7 +16,9 @@ An implementation of a distributed version of the well-known simplex algorithm, 
 The aim is to solve degenerate linear programs on asynchronous peer-to-peer networks with distributed information structures. 
 So, a network of agents is considered, where every agent knows only a subset of information, and they run simplex algorithm by updating and sharing their base, until they will agree on a common solution. It is showed how the multi agent assignment problem can be efficiently solved by using a distributed structure, and it is provided simulations in the robot operating system environment.
 
-**Based on the pubblication:**
+**Based on the publication:**
+
+[Publication](https://www.sciencedirect.com/science/article/pii/S0005109812002956)
 
 ```
 @article{burger2012distributed,
