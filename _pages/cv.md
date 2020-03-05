@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-
+{% include base_path %}
+[Curriculum Vitae](http://francovia.github.io/files/Franco.pdf)
 
 Education
 ======
@@ -32,9 +33,6 @@ Skills
 
 Projects
 ======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-projects-cv.html %}
-  {% endfor %}</ul>
   
   
 Talks
