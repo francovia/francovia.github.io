@@ -15,30 +15,41 @@ Distributed Optimization, Edge Computing, Cognitive Systems, IoT, Industry 4.0 &
 Work experience
 ======
 
-### Fraunhofer Institute for Cognitive Systems IKS
-**Research Engineer** Munich, Germany (Jun. 2020 - now)
-Involved in several projects, from resilient architectures for safety machine learning systems, 
-to smart manufacturing interfaces for Industry 4.0.
+Fraunhofer Institute for Cognitive Systems IKS
+-----
+- *Research Engineer*
+
+   Munich, Germany (Jun. 2020 - now)
+   
+   Involved in several projects, from resilient architectures for safety machine learning systems, 
+   to smart manufacturing interfaces for Industry 4.0.
   - Developing an asset administration shell for training several industrial devices with the federated learning approach.
   - Designing resilient service-oriented architectures for safety-critical systems running machine learning programs.
   - Detection of out-of-distribution samples with attention networks.
 
-### Toposens GmbH 
-**Robotics engineer (internship)** Munich, Germany (Sep. 2019 - Feb. 2020)
+Toposens GmbH 
+-----
+- *Robotics engineer (internship)* 
+    
+    Munich, Germany (Sep. 2019 - Feb. 2020)
 
-Worked with a 3D ultrasound sensor, able to extract a point cloud from a near-field environment for slowly moving robots. 
-Through machine learning, I have created a surface classifier in a three steps procedure: segmentation, fitting and classification.
+    Worked with a 3D ultrasound sensor, able to extract a point cloud from a near-field environment for slowly moving robots. 
+    Through machine learning, I have created a surface classifier in a three steps procedure: segmentation, fitting and classification.
 
   - Design and development of a constrained least-squares algorithm in python, applied after segmentation.
   - Built a plugin in Gazebo (C++) to simulate the model and classify several different surfaces.
   - Wrote a scientific paper to explain the model and show the result associated.
 
-### National Institute for Nuclear Physics, Legnaro national laboratories, INFN - LNL 
-**Mechatronics engineer (internship)** Padua, Italy (Feb. 2017 - Sep. 2017)
+National Institute for Nuclear Physics, Legnaro national laboratories, INFN - LNL 
+-----
+- *Mechatronics engineer (internship)* 
+    
+  Padua, Italy (Feb. 2017 - Sep. 2017)
 
-An automatic storage facility of exhausted targets used to allow a drop in radioactivity.
-The movement was fully autonomous, from target extraction until the storage phase. A prototype of the deposit system has been designed and implemented.
-([video](https://www.youtube.com/watch?v=lCyCAb-AQD0))
+  An automatic storage facility of exhausted targets used to allow a drop in radioactivity.
+  The movement was fully autonomous, from target extraction until the storage phase. A prototype of the deposit system has been designed and implemented.
+  ([video](https://www.youtube.com/watch?v=lCyCAb-AQD0))
+  
   - An automatic storage facility of exhausted targets used to allow a drop in radioactivity.
   - Development of a supervision system with Scada as HMI. Documentation of the storage usages and procedures.
 
