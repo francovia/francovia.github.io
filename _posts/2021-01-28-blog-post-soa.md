@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 1'
+title: 'Towards Resilient Architectures for Cognitive Systems'
 date: 2021-01-28
 permalink: /posts/2021/01/blog-post-soa/
 tags:
@@ -8,9 +8,6 @@ tags:
   - ResilientSOA
 ---
 
-
-Towards Resilient Architectures for Cognitive Systems
-======
 
 Cyber-physical systems (CPS) integrate software algorithms and physical structures. 
 To exceed the simple embedded systems of today, advances in CPS require several properties, 
