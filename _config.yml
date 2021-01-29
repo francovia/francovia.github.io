@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nicola Franco"
   avatar           : "photo-profile.jpg"
-  bio              : "enthusiastic researcher"
+  bio              : "Enthusiastic Researcher"
   location         : "Munich DE"
-  employer         :
+  employer         : "Fraunhofer Institute for Cognitive Systems IKS"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=cOpIhYQAAAAJ"
-  email            :
+  email            : "nicola.franco@iks.fraunhofer.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
