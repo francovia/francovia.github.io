@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "Research Interests"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Enthusiastic researcher, highly motivated to work in the field of geometric deep learning.
 
 Whether it is the navigation system in your car, the software used to create high school timetables, 
 or decision support systems in manufacturing and logistics environments, you can be almost certain 
@@ -27,7 +25,7 @@ means algorithms with an execution time limited by a polynomial in the size of t
 Robust approximation algorithms to popular problems have immense practical applications and are 
 the backbone of modern industries.
 
-#### Why Graph Neural Networks?
+### Why Graph Neural Networks?
 
 Graphs are powerful tools to describe complex structures and systems. 
 In particular, they provide a simple and elegant approach to most of the problems of software engineering, 

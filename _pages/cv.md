@@ -9,9 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+My research interests are in Geometric Deep Learning,  Graph Neural Networks, Federated Learning, 
+Distributed Optimization, Edge Computing, Cognitive Systems, IoT, Industry 4.0 & Cyber Physical Systems. 
+
 Work experience
 ======
-#### [Toposens GmbH](https://toposens.com/) 
+
+### Fraunhofer Institute for Cognitive Systems IKS
+**Research Engineer** Munich, Germany (Jun. 2020 - now)
+Involved in several projects, from resilient architectures for safety machine learning systems, 
+to smart manufacturing interfaces for Industry 4.0.
+  - Developing an asset administration shell for training several industrial devices with the federated learning approach.
+  - Designing resilient service-oriented architectures for safety-critical systems running machine learning programs.
+  - Detection of out-of-distribution samples with attention networks.
+
+### Toposens GmbH 
 **Robotics engineer (internship)** Munich, Germany (Sep. 2019 - Feb. 2020)
 
 Worked with a 3D ultrasound sensor, able to extract a point cloud from a near-field environment for slowly moving robots. 
@@ -21,7 +33,7 @@ Through machine learning, I have created a surface classifier in a three steps p
   - Built a plugin in Gazebo (C++) to simulate the model and classify several different surfaces.
   - Wrote a scientific paper to explain the model and show the result associated.
 
-#### [National Institute for Nuclear Physics, Legnaro national laboratories, INFN - LNL](https://www.lnl.infn.it/index.php/en/)
+### National Institute for Nuclear Physics, Legnaro national laboratories, INFN - LNL 
 **Mechatronics engineer (internship)** Padua, Italy (Feb. 2017 - Sep. 2017)
 
 An automatic storage facility of exhausted targets used to allow a drop in radioactivity.
