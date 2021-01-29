@@ -8,28 +8,42 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Curriculum Vitae](http://francovia.github.io/files/Franco.pdf)
+
+Work experience
+======
+#### [Toposens GmbH](https://toposens.com/) 
+**Robotics engineer (internship)** Munich, Germany (Sep. 2019 - Feb. 2020)
+
+Worked with a 3D ultrasound sensor, able to extract a point cloud from a near-field environment for slowly moving robots. 
+Through machine learning, I have created a surface classifier in a three steps procedure: segmentation, fitting and classification.
+
+  - Design and development of a constrained least-squares algorithm in python, applied after segmentation.
+  - Built a plugin in Gazebo (C++) to simulate the model and classify several different surfaces.
+  - Wrote a scientific paper to explain the model and show the result associated.
+
+#### [National Institute for Nuclear Physics, Legnaro national laboratories, INFN - LNL](https://www.lnl.infn.it/index.php/en/)
+**Mechatronics engineer (internship)** Padua, Italy (Feb. 2017 - Sep. 2017)
+
+An automatic storage facility of exhausted targets used to allow a drop in radioactivity.
+The movement was fully autonomous, from target extraction until the storage phase. A prototype of the deposit system has been designed and implemented.
+([video](https://www.youtube.com/watch?v=lCyCAb-AQD0))
+  - An automatic storage facility of exhausted targets used to allow a drop in radioactivity.
+  - Development of a supervision system with Scada as HMI. Documentation of the storage usages and procedures.
 
 Education
 ======
 * M.S. in automation engineering, University of Bologna, 2019
 * B.S. in mechatronics engineering, University of Padua, 2017
 
-Work experience
-======
-* Sep. 2019 - Feb. 2020: Robotics engineer (internship)
-  * Toposens GmbH
-  * Munich, Germany
-
-* Feb. 2017 - Sep. 2017: Mechatronics engineer (internship)
-  * National Institute for Nuclear Physics, Legnaro national laboratories, INFN - LNL
-  * Padua, Italy
   
 Skills
 ====== 
 * Programming languages:
-  * Medium knowledge: C++, Python, Matlab, PLC
+  * Medium knowledge: C/C++, Python, Matlab, Bash, PLC's standards
   * Basic knowledge: Java, VHDL
+
+* Tools:
+  * Docker, Vim, Git, RViz, Webots, Gazebo, Jupyter, Kafka, MySQL, Vivado, Simulink
 
 Projects
 ======
