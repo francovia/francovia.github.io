@@ -1,12 +1,19 @@
 ---
 permalink: /
-title: "Research Interests"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Welcome to my page. My name is Nicola Franco and I am from Italy. 
+I am currently a researcher at Fraunhofer institute for cognitive systems IKS in Munich.
+I am involved in several projects, from resilient architectures for safety machine learning systems, 
+to smart manufacturing systems for Industry 4.0.
+
+### Research interests
 
 Whether it is the navigation system in your car, the software used to create high school timetables, 
 or decision support systems in manufacturing and logistics environments, you can be almost certain 
