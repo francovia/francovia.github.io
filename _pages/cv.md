@@ -63,10 +63,26 @@ Skills
 ====== 
 * Programming languages:
   * Medium knowledge: C/C++, Python, Matlab, Bash, PLC's standards
-  * Basic knowledge: Java, VHDL
+  * Basic knowledge: Java, Scala, Go, Prolog, VHDL, Verilog
 
+* Libraries:
+  * Pytorch, Pytorch geometric, Tensorflow, Keras, Networkx, PCL, OpenCV, Eigen
+
+* OS
+  * Ubuntu, Mac, ROS, ROS2, VxWorks 
+ 
 * Tools:
-  * Docker, Vim, Git, RViz, Webots, Gazebo, Jupyter, Kafka, MySQL, Vivado, Simulink
+  * Docker, Kubernetes, Tensorflow Extended, Vim, Git, Kafka, MySQL, Jupyter
+
+* Simulators:
+  * Webots, Gazebo, RViz, Simulink, CARLA
+
+Languages
+======
+* English: B2, IELTS: 6.5, 
+* German: B1, 
+* Italian: mother lang.
+
 
 Projects
 ======
